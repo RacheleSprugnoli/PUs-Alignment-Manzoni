@@ -1,0 +1,4101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+             <tmx version="1.4"><header creationdate="2025-10-21 15:40:53"
+             srclang= "it"
+             adminlang="en"
+             o-tmf="unknown"
+             segtype="sentence"
+             creationtool="Uplug"
+             creationtoolversion="unknown"
+             datatype="PlainText" />
+      <body>
+
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in grazia vostra</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>on your account</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>mi son fermata di più</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>I stayed there a bit later</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di dove</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>be coming from</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Buona sera</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Good evening</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>salutò per nome</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>called by name</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>venne avanti</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>so did</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>nello stesso tempo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si fece vedere</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>came forward</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>aprì l' uscio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>opened the door</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>siete poi ben sicura</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Are you quite sure</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>lo potrò pigliare</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>will I ever have another</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>chi sa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>se non lo piglio ora</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>If I don' t take this opportunity</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>se non lo piglia al volo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>if you don' t take the opportunity</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Non hanno discrezione</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>have no sense</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>In quel momento</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>At that very moment</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>non c' è bisogno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>is needed</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ha fatto dir tanto di sé</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>got himself so much talked about</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ne ha fatte di così curiose</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>did so many strange things</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>non trovava inciampo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>gave no trouble</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>un panegirico in onore di san Carlo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>a panegyric on San Carlo Borromeo</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in quel momento</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>il primo che gli veniva alle mani</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>the first volume that came to hand</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>era lontano da preveder</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>was the distance</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>pover' uomo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>poor fellow</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>un letteratone del tempo antico</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>one of the great scholars of antiquity</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>un uomo di studio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>a learned man</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>portargli l' imbasciata</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>with her message</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>una stanza del piano superiore</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>an upstairs room</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ruminava tra sé</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>was murmuring to himself</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Carneade ! Chi era costui ?</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Carneades who was he now</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Cos' è tutto questo fracasso</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>What' s all this disturbance for</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Guardano in su</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>They looked up</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>stanno in orecchi</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>listened</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>guardano in su</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>They look up</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in folla</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>thronged</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>gente in casa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>There' s someone got into house</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in fretta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>with such perilous speed</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in fretta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>quickly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>che diavolo c' è</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>What the devil' s happening</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>nessuno una risposta da dare</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nobody knew the answer</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ognuno aveva una domanda da fare</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>every one of them had a question on his lips</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ogni momento</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>rapidly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>non c' era ancora anima vivente</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>there was still no one to be seen</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>per grazia del cielo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>by the mercy of heaven</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Voltarono s' incamminarono verso la chiesa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>They all turned round and made their way towards the church</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fuor del pericolo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>were out of danger</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di qua o di là</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>one way or the other</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di tutti il più in sé</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>of the little band was the most self - possessed</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di fuori</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Cattiva gente</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>bad people</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>stava a bisticciar</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>He was having a discussion</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si sentì chiamare a voce di popolo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he heard all those voices calling him</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>chi sa che diavolo c' è</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>God knows what' s happening</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>son dentro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>they ’ d got inside</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in fondo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>the other end</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Quand' ebbe ripreso fiato</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>When he had got his breath back</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>affacciato alla finestra</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>had brought him to his window</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Stava dirimpetto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>He lived opposite</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si stringevan nelle spalle</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>shrugged their shoulders</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>chiuse la finestra</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>the window was shut</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>vi ringrazio del vostro buon cuore</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Many many thanks for all your kindness</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>un' altra volta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>some other time</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di notte</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>at night</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a un tratto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>at once</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di nuovo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>back</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si pentì d' averlo chiesto </seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>the alarm he regretted having raised</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>è giù</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>it' s down</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in questo momento</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>now</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>l' uscio spalancato</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>the gate flung open</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>rallenta il passo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>slowed his pace</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di mano in mano che</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>As</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si movono in massa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>moved off in a mass</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>son già fuori del paese</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>They ’ re heading away from the village now</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in fretta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>hurried</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>cercar soccorso</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to run down</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>alla campana</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Alla campana</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Ring the alarm</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>spingono innanzi</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>pushed on</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di mezzo alla folla</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>the middle of the crowd</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fomentar le ciarle</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to encourage the gossip</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>per chiedergliene scusa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fosse stato per loro un angelo tutelare</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>the role of guardian angel</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si guardarono in viso l' un con l' altro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>looked at each other</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a un tratto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>pur troppo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>cosa fosse quel diavolo in casa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>something hellish going on at her house</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ruppe il silenzio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>break the silence</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ripreso fiato</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to get her breath back</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>rallentarono il passo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>they slackened their pace</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>non sentendo un alito all' intorno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>as they could hear no sign of life around them</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>un non so che</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in affanno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nerve - racking</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ancor più</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Even more</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>cattiva riuscita</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>failure</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in affanno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in great distress</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ora l' uno ora l' altro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>one or other of them</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in silenzio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in silence</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di buon trotto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>at a good speed</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>un pezzo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>for some time</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>morir di malattia</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>dying in bed</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>aveva cara la speranza</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he valued his chances</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>far deposizione al podestà</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to make any statement to the mayor</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>avevano affrontato don Abbondio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>had accosted</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>due uomini d' assai gagliarda presenza</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>They were of valiant bearing</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>venirsi incontro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ragion composta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>double problem</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>dar la caccia</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>pursuing the enemy</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ottenne credenza</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>was generally believed</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>s' eran messe in salvo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>were safe</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>gettò una voce</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>let fall the statement</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>portar via</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>carry off</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>sarebbe una vergogna</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>would bring shame on the village</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>alzando la voce</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>two voices were raised</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Le hanno portate via</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>They ’ ve been kidnapped</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>pericolo corso</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>perils to which they have passed</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a man salva</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>just calmly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>sa il cielo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>heaven knows</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si fosse messo a questionare con ragioni</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he had started putting forward logical arguments</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fece l' effetto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>it was just as well</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tutt' a un tratto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>suddenly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Omnia munda mundis</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Omnia munda mundis</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>scappa dagli artigli del lupo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>escaping from the jaws of the wolf</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>non gli farebbe una difficoltà al mondo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>wouldn' t mind at all</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>vedete un poco</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Good heavens</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tentennava la testa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>He shook his head</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di notte</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>At night</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>chiamato il padre da una parte</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>called him on one side</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>adagio adagio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>gently</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>starci in sentinella</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to keep guard over it</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Accanto a lui</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Next to him</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fece lor cenno ch' entrassero</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>motioned them to come inside</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Dio sia benedetto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Thanks be to God</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>stava ritto in aspettativa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>was standing there waiting for them</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>La porta s' aprì</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>The door began to swing open</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>bel bello</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in silenzio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in silence</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>poteva darle una risposta soddisfacente</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>could find a useful answer</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a un tratto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>suddenly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>essere andata troppo avanti</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>she had gone so far</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>viaggio fuor di strada</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>cross country journey</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tornò indietro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>turned away</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>gli raccomandò molto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>urged him</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>se ne levò quattro di tasca</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>took four out of her pocket</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>star in pena</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>be worried</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di nuovo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>again</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in sé</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>la notte degl' imbrogli e de' sotterfugi</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>a night of intrigue and subterfuge</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tenuto in concetto di santo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>was regarded as a saint</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>farebbe vedere</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he shows</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>avesse a sua disposizione</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he needed</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>per acqua e per terra</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>both by land and by water</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fino a</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>straight to</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a pochi passi</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>not far</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>per fin</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>until</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ti guiderà</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>will give you guidance</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ti farà da padre</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>He will be a father to you</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tu devi metterti in salvo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>you must go somewhere where you will be safe from</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>nello stesso tempo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>at the same time</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>sarete abbastanza fuori d' ogni pericolo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>you will be sufficiently far away from danger</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a ogni modo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in any case</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>siate sicuri</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>be sure</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>non avete fatto male a nessuno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>you have done no harm to anyone</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ringraziate il Signore</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Give thanks to the Lord</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>lei ne sa più di me</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>you know more about it than I do</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Ma che sa il cuore</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>But what does the heart really know</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>il cuor mi dice che ci rivedremo presto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>My heart tells me that we shall meet again soon</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Certo il cuore</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Certainly the heart</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>vogando a due braccia</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>da mezzo il cielo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>high in the heavens</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Non tirava un alito di vento</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>There was not a breath of wind</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>prese il largo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>sculled out across the lake</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>data e barattata la parola</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>the passwords were duly exchanged</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>zitti zitti</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>very quietly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>dando loro un addio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>chiuse la porta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>shut the door</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>andò verso la sagrestia</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>went off towards the vestry</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>non trova parole</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>does not find expression in words</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>chi gli dà retta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>those who will listen to it</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>il suo angelo v' accompagni</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>may his angels go with you</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Dio vi guardi</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>God protect you</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>non c' è tempo da perdere</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>there is no time to lose</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in fretta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>quickly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ne ha tanto bisogno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>how sorely he needs it</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di cuore</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>heartily</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>se non ve la chiedessimo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>if we did not beg it</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in silenzio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in silence</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>nel mezzo della chiesa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in the middle of the church</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>vi dia forza</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he may give you strength</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>sopra tutto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>above all</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>c' era stato il diavolo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>the place had been ransacked</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>mise un gran sospiro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>sighed deeply</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>levandosi di tasca</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>as she took her key out of her pocket</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>nan</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Addio monti sorgenti dall' acque</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Farewell you mountains which rise straight out of the water</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>posò il braccio sulla sponda</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>she laid her arm along the gunwale</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>per tutto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>everywhere</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a un tempo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>da gran tempo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>so long</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ha già messi gli occhi addosso</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>they have had their eye</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>gli levino il respiro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>have a suffocating effect</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tornerebbe allora indietro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>would turn back</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fare fortuna</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to seek their fortune</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>giù giù</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>down</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>all' estremità</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>at its outskirts</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in mezzo a</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>amid</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>qua e là</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>here and there</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>al di là</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>outside</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>con la testa voltata indietro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>back turned their heads</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>adagino adagino</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>very gently</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a voce chiara</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>loudly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Deo gratias</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Deo gratias</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>era di fianco alla scala</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>was next to the staircase</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>s' avvicinarono all' uscio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>approached the door</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>non facendo rumore neppur per uno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>making less noise than one ordinary visitor</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>pian piano</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>softly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>accostò l' uscio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>pushed the door to</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>arrivarono all' uscio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>they reached the door</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>vennero avanti</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>They crept forward</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in punta di piedi</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>on tiptoe</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tutt' e due</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fece coraggio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>encouragingly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Era il segnale</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>This was the signal</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ebbero voltato</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>they were round the corner</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tirarsi alquanto in disparte</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in search of a quiet place</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>In faccia all' uscio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Opposite</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di dentro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>from inside</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>accostate l' uscio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>push the door to</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>saper bene</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>know</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di nuovo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in quanto a</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>As far as Beppe' s concerned</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>quanto mi sia dispiaciuto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>how upset I was</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>metter male</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to cause trouble</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>zitti zitti</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>very quietly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di nuovo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>again</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>l' uno e l' altro </seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>povero cuore</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>poor heart</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>le contò le voltò le rivoltò</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>counted them turned them over turned them over again</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>mettere un po' di nero sul bianco</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>I ’ d like something in black and white</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>va bene</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Is that all right</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>mise dentro la testa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>He inserted first his head</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tener lontani</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>keep at a distance</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>guardandosi intorno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>looked round</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si levò una chiave di tasca</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>took a key from his pocket</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>levandosi un involtino di tasca</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>bringing out a screw of paper from his pocket</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>berlinghe nuove di quelle col sant' Ambrogio a cavallo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>fine new lire the kind that have St Ambrose riding his horse on them</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>per compagnia</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>for company</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>vi siete condotto dietro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>did you bring that</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in tutte le maniere</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in more ways than one</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ch' è tardi</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>It' s late right</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>son venuto tardi</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>I ’ ve come rather late</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>levava gli occhiali</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he took off his spectacles</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>al chiaro di luna</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>moonlit</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>gli faceva cornice</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>framing</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>come abbiam detto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>still</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tenendo il fiato</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>holding their breath</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>con l' orecchie tese</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>listening intently</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si tirò dietro l' uscio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>shut the door behind</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si disegnò</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>fell</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a un per volta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>one at a time</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>aprì l' uscio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>opened the door</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>d' improvviso</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>suddenly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>le contò le voltò le rivoltò</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>counted them turned them over turned them over again</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di dentro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>non faccia schiamazzo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Stop shouting</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>come se facesse a mosca cieca</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>as if playing blind man' s buff</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si chiuse dentro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>locked the door behind him</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>gridava quanto n' aveva in canna</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>with the full force of his lungs</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>buttando in terra</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>hurling</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Le sue labbra non erano ancora tornate al posto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>His lips were still moving</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>quest' è mia moglie</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>this is my wife</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in presenza di questi testimoni</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in the presence of these witnesses</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>prese una risoluzione</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>a practical resolution</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>vide chiaro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>passed a clear picture</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>nel mezzo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Between</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>allungando la mano</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>put his hand out</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>alzando il viso</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>raising his eyes</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>sarete contento</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>you ’ re content</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>la piegò in quattro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>He folded the sheet in four</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>rattenendo il respiro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>holding their breath</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in punta di piedi</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>on tip - toe</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>pian piano</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>very quietly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tirandosela dietro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>pulling behind him</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>darle coraggio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to encourage her</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>nello stesso tempo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>also</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>d' entrare</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to come in</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a quei ch' erano fuori</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>the couple outside</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>dar segno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to let know</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in maniera d' impedire</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>blocking</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si piantaron ritti</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>planted themselves in front</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di mano in mano che</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>as</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a viva voce</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>aloud</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>levò fuori</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>took out</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>dalla vita alla morte</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>many a slip there' s</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ha avuto l' incomodo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>you ’ ve had the trouble</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Lei mi fa torto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Of course I do</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>le sanno tutte</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>There' s not much you people don' t know nowadays</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fuori di questa casa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Get them out</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fuori di questa casa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Out of the house</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>cercando a tastoni</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>groped</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>da sé</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>by herself</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>stanno a vedere</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>watched</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ritornan sotto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>got back into bed</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>vanno alla finestra</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>looked out of the window</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Campana a martello</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>The alarm bell</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si rizzano</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>jumped up</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tendon l' orecchio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>heard the sound</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>suona a martello</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>rang an alarm</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>cappello di gala</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>his best hat</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Dà di piglio alle brache</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>He grabbed his breeches</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>dar più aiuto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>providing all the help</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>su due piedi</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>very soon</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>trovò un espediente</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he thought of a way</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tirò indietro la testa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>His face vanished from the window</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>gente in casa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>There' s someone in my house</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>con gli occhi tra' peli</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>blearily</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>mise fuori la testa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>put out his head</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in furia</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>quickly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fece un salto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>jumped</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>non appariva indizio di persona vivente</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>there was no sign of life at all</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di giorno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>daylight</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in fuori</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>beyond it</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Era il più bel chiaro di luna</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>It was a beautiful moonlit night</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si diede a gridare</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>began to cry</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>aprì una finestra</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>opened a window</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>non dava segno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>showed no sign</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>spazzando con le mani il pavimento</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>sweeping the floor with his hands</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>parrebbe la vittima</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he seemed to be the victim</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Così va spesso il mondo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>It is often like that in this world</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in realtà</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in fact</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>era lui che faceva un sopruso</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he was the oppressor</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>attendeva tranquillamente a' fatti</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he was peacefully minding his own business</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>messo in fuga</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>put to flight</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ha tutta l' apparenza</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>had all the look</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>s' era introdotto di soppiatto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he had entered by fraud</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di notte</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>at night</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fare una riflessione</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to make one comment</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>serra serra</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>commotion</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>In mezzo a</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Amid</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>uscire a salvamento</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>led to safety</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>per l' amor di Dio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>for heaven' s sake</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di quello che gli si chiedeva</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he had been asked for and more</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>alla fin de' fatti</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>really</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>meglio non può andare</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>The whole thing seemed to be turning out very well</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>facesse rumore</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>every noisy movement</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in cuor suo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>silently</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>adagio adagio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>very softly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>al fianco</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>at his side</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in somma</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in fact</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si fa venir dietro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>went on up</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Lascia a terreno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>He posted on the ground floor</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>porge l' orecchio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>listened</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Torna indietro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>He came back</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Cava fuori</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>He got out</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>pezzo pane</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>piece of bread</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di dentro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>just inside it</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>chi va là</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>pian pianissimo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>very quietly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>adagio adagio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>nemmeno uno zitto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>no sound</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>chiedeva ricovero</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>was looking for a shelter</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>pian piano</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>softly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>aveva messo l' occhio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he had noticed</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>diede ordine</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>told them</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fece venire avanti</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he called up</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di fuori</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>out of doors</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>andò innanzi solo ad esplorare</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>went on alone to spy out the land</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in un momento</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in a couple of minutes</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>prese un bordone da pellegrino</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>picked up a pilgrim' s staff</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fecero la loro relazione</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>reported</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Andarono diviato al casolare</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Then went straight to the ruined house</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>pian piano</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>softly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>non incontrarono anima vivente</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>they met no one</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>venire in chiaro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to make sure</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>diedero una giravolta per il paese</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>They walked right through the village</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>d' aver fatto tardi</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>how late it was</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>uscirono in fretta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>left hurriedly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>dal momento in cui</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>since</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fosser ben desti</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>were fully awake</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>prima anzi che</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>before</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>prima che</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>before</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in fatti</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in fact</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>va diritto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>went straight</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fossero all' ordine</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>were ready for action</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>frugavan la casa dall' alto al basso</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>were searching the house</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>non s' era fatto vedere</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>gave no sign</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a buon conto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>though</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>nel mezzo del cortiletto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in the middle of the courtyard</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>corron qua e là</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>were running around</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>s' avviavan da quella parte</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>were making off in the same direction</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>esce di fila</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to break ranks</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>lo tira in ischiera</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to pull it back into line</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>or qua or là</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>here and there</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tenerli insieme</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to hold them together</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>venir loro addosso</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>it was on them</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>da lontano</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>star saldi</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>stand firm</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>s' urtano a vicenda</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>they jostled each other</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fece la stessa impressione</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>were equally affected</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>alla volta del campanile</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>towards the bell - tower</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>via a gambe per la strada</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>fled down</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si guardano in viso</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>they gaped at each other</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Chi è in difetto è in sospetto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>A bad conscience makes a timid heart</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in fila</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>the rapid series</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tutt' a un tratto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>suddenly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>trema come una foglia</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>shook like a leaf</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fargli paura</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to frighten him</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tira fuori un coltellaccio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>pulled out a great knife</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>gli mette una mano alla bocca</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>put a hand over his mouth</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>caccia un urlo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>uttered a yell</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in vece</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>In spite of this warning</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in tono minaccioso</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>threatening voices</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a destra e a sinistra</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>from left and right</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a un punto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in the same moment</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in gran sospetto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>very frightened</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>mette il piede dentro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>stepped inside</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>scappassero subito di casa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to leave their house at once</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>per l' amor del cielo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>for God' s sake</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>veniva di corsa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>had run</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si mettono all' erta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>remaining on the alert</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>passerà diritto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he would go straight by</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fan la guardia</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>were guarding</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>buttan sottosopra la casa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>turning everything upside down</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>abbia fatto la spia</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Has been spying on us</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Che diavolo è questo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>What the devil can this mean</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fa le stesse cerimonie</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>followed the same procedure again</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>pian piano</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>quietly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>gli vengan dietro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>they should follow him</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Si stringe nelle spalle</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>He shrugged his shoulders</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>il letto è fatto e spianato</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>the bed was empty tidily made up</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>spalanca l' uscio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>right open he pushed the door</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>davanti al viso</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in front of his eyes</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>vi mette l' orecchio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>He put an ear to it</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>è buio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in the dark</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>vi mette l' occhio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>he put one eye</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si fa spiraglio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>leaving a crack</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>uscio che mette alla prima stanza l</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>the door of the first room</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Qui giace la lepre</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>This is it</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in quel momento</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>is just about</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>prima di</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>before</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>spalancan la mano e la bocca</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Their jaws dropped their fingers slackened</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in furia</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>with a start</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in fatti</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>But</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in fretta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>rapidly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in vece</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tenendola per la sottana</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>holding her by the skirt</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tornare indietro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>going back</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tutt' a un tratto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Suddenly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a un punto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>an point</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>per ragione di</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a corserelle e a fermatine</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>a brief halt here and a little spurt there</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>sarà un po' di tempo perduto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>It won' t cost me more than a little wasted time</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>alla peggio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>più che posso</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>as long as I can</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tener costei a bada</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to hang on to Perpetua</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Ma è fatta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>But it' s too late now</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>È stata proprio grossa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>We must have been mad</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>saranno ancor dentro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>are they still inside there</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a quest' ora</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>by now</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>faceva un altro discorso con sé stessa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>was carrying on a separate conversation with herself</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>è chiara</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>that' s clear enough</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>va benissimo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Of course</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>stava attenta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>she showed interest</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ogni tanto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>from time to time</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>darle molta udienza</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>she was listening very carefully</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>andati a monte</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>had come to nothing</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ben bene</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>nan</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ogni volta che</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>every time that</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>andarle dietro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>follow her back</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Non c' era che ridire</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>There was little Agnese could do</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>fino a un certo punto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>up to a certain point</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>il più che fosse possibile</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>as far away as possible</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in una certa stradetta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in the lane</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>torniamo un passo indietro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>return</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>gli andaron dietro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>followed him</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>che metteva fuori</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>that led out into the country</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>prese la strada</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>took the road</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>come abbiam detto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>as we mentioned before</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>era in fondo al villaggio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>was at the end of the village</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si mise alla fronte</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>of his troop he put himself at the head</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tutt' e tre</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>all three of us</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>tutt' a un tratto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>suddenly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in buon ordine</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>in good order</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ce ne daranno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>will knock us</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a uno a uno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>one by one</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>coltelli in pronto</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>knives at the ready</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>pistole in mano</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Pistols drawn</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>alzati i calcagni</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>they had got up speed</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>si trovarono in faccia Agnese</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>found themselves face to face with Agnese</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>quando saremo fuori</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>when we ’ ve got safely away</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>C' è il diavolo in casa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>There' s something hellish going on at the cottage</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Cosa c' è d' altro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>What' s the rest of the news</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>per di qua</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Come this way</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di corsa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>made them stop</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di corsa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>ran</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>com' è andata</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>How did it go</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>a stento</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>with difficulty</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>cavando fuori la parola</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>getting the words out</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>corse come poteva al buio</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>hastened as best she could in the dark</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>entrò in fretta</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>quickly</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>in furia</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>making all the speed they could</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>mettersi in salvo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>into safety</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>eran venuti giù saltelloni</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>had hurried down</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di dentro</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>from inside</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>un tocco e due e tre e seguita</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>one two three four five six seven</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>ne avessero avuto bisogno</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>they had needed one</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>scoccò la campana</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>the bell began to ring</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>di galoppo</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>she dashed off</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>prese la rincorsa</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>breaking into a run</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>mettersi in libertà</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>to free herself</seg>
+         </tuv>
+        </tu>
+        <tu>
+         <tuv xml:lang="it">
+            <seg>Diavolo d' una donna</seg>
+         </tuv>
+        <tuv xml:lang="en">
+           <seg>Blast the woman</seg>
+         </tuv>
+        </tu>
+  	</body>
+  	      </tmx>
